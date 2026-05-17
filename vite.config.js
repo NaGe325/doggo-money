@@ -15,9 +15,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['apple-touch-icon.png', 'icon-192.png', 'icon-512.png'],
       manifest: {
-        name: '工资进度条 · 小狗使者陪你打工',
-        short_name: '工资进度条',
-        description: '实时显示今天赚了多少钱，配可爱小狗安慰你',
+        name: '小狗给你挣钱',
+        short_name: '小狗挣钱',
+        description: '实时显示今天赚了多少钱，一群可爱小狗陪你打工',
         theme_color: '#ffd6c2',
         background_color: '#fff5e6',
         display: 'standalone',
